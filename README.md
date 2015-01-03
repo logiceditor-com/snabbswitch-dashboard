@@ -2,9 +2,9 @@ snabbswitch-dashboard
 =====================
 _Experimental dashboard for snabbswitch project_
 
-   Copyright (c) 2014, LogicEditor <info@logiceditor.com>
-   Copyright (c) 2014, Alexander Gladysh <ag@logiceditor.com>
-   Copyright (c) 2014, Dmitry Potapov <dp@logiceditor.com>
+- Copyright (c) 2014-2015, LogicEditor <info@logiceditor.com>
+- Copyright (c) 2014-2015, Alexander Gladysh <ag@logiceditor.com>
+- Copyright (c) 2014-2015, Dmitry Potapov <dp@logiceditor.com>
 
 See file `COPYRIGHT` for the license.
 
